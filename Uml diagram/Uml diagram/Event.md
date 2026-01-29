@@ -1,0 +1,2 @@
+
+![[Screenshot_۲۰۲۶۰۱۲۷_۰۶۴۹۳۵_ChatGPT.jpg]]

@@ -1,0 +1,22 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "Stability": "checkbox",
+    "Reliability": "checkbox",
+    "Performance": "checkbox",
+    "Interoperability": "checkbox",
+    "Modularity": "checkbox",
+    "Distribution": "checkbox",
+    "De-duplication": "checkbox",
+    "Resource Utilization": "checkbox",
+    "Compatibility": "checkbox",
+    "Security": "checkbox",
+    "Usability": "checkbox",
+    "Maintainability": "checkbox",
+    "Throughput": "checkbox",
+    "Latency": "checkbox",
+    "Scalability": "checkbox"
+  }
+}

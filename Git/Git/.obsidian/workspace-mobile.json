@@ -1,0 +1,550 @@
+{
+  "main": {
+    "id": "d8dc292f88132be3",
+    "type": "split",
+    "children": [
+      {
+        "id": "64d791f3c0c7ceb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa834005ada6d006",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۴. کپی برداری (Clone).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۴. کپی برداری (Clone)"
+            }
+          },
+          {
+            "id": "7aa8b28a79ef7c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۳. بروزرسانی روزانه (Daily Sync).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۳. بروزرسانی روزانه (Daily Sync)"
+            }
+          },
+          {
+            "id": "645a428322f8f14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۲. شروع از صفر (Local to Remote).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۲. شروع از صفر (Local to Remote)"
+            }
+          },
+          {
+            "id": "f026d8dedb3ec882",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۱. احراز هویت و اتصال (Setup Phase).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۱. احراز هویت و اتصال (Setup Phase)"
+            }
+          },
+          {
+            "id": "65f5c540146086d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git init.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git init"
+            }
+          },
+          {
+            "id": "647c930585611bbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git add.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git add"
+            }
+          },
+          {
+            "id": "c8e7d4ea56a068a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git push.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git push"
+            }
+          },
+          {
+            "id": "520a9dfe77a82660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git merge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git merge"
+            }
+          },
+          {
+            "id": "72741b6c04c1eeae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Branching.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Branching"
+            }
+          },
+          {
+            "id": "eebf09f441bb6fcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git diff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git diff"
+            }
+          },
+          {
+            "id": "741e247132a097c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git checkout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git checkout"
+            }
+          },
+          {
+            "id": "88562d33b290ab85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git fetch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git fetch"
+            }
+          },
+          {
+            "id": "974a8ee8f77dc48d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git pull.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git pull"
+            }
+          },
+          {
+            "id": "669548c8d08e4f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git log"
+            }
+          },
+          {
+            "id": "96bfa82ac4569035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git log --graph.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git log --graph"
+            }
+          },
+          {
+            "id": "7caf36ba77821840",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git resert  --hard.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git resert  --hard"
+            }
+          },
+          {
+            "id": "7f80fd8ceeed0701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۱. احراز هویت و اتصال (Setup Phase).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۱. احراز هویت و اتصال (Setup Phase)"
+            }
+          },
+          {
+            "id": "eaf0abb358f8d167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۳. بروزرسانی روزانه (Daily Sync).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۳. بروزرسانی روزانه (Daily Sync)"
+            }
+          },
+          {
+            "id": "27668fcde9482a8d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "59c42231850bcfe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "پیکربندی (Configuration).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "پیکربندی (Configuration)"
+            }
+          },
+          {
+            "id": "7fe3aafad2f8722b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git push -u.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git push -u"
+            }
+          },
+          {
+            "id": "1cce6ce0764f9b45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git fetch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git fetch"
+            }
+          },
+          {
+            "id": "44f3750664157ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "۲. شروع از صفر (Local to Remote).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "۲. شروع از صفر (Local to Remote)"
+            }
+          },
+          {
+            "id": "d1036af3c37e9df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "نمایش گرافیکی لوگ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "نمایش گرافیکی لوگ"
+            }
+          },
+          {
+            "id": "15d7415d91717350",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Git diff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Git diff"
+            }
+          },
+          {
+            "id": "27a6e94f6aba0dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "پیکربندی (Configuration).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "پیکربندی (Configuration)"
+            }
+          }
+        ],
+        "currentTab": 25
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "436f38645b397dbf",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "85ca8b07000ea1d3",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "469edb704be6aed8",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "81ebfc621cb2c691",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f25581b9646a1748",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "44b8e3d16fc968dd",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e2c4beae0e157241",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a25c7ed872225a41",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "پیکربندی (Configuration).md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "8f127b7b3a7161a3",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Untitled.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "4ccd0461c38fdd64",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Untitled.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "27a6e94f6aba0dbd",
+  "lastOpenFiles": [
+    "۲. شروع از صفر (Local to Remote).md",
+    "SSH.md",
+    "id_ed25519.md",
+    "۱. احراز هویت و اتصال (Setup Phase).md",
+    "Remote.md",
+    "Git pull.md",
+    "Git fetch.md",
+    "۳. بروزرسانی روزانه (Daily Sync).md",
+    "Branching.md",
+    "git branch.md",
+    "origin.md",
+    "شاخه تستی.md",
+    "پیکربندی (Configuration).md",
+    "Main.md",
+    "master.md",
+    "Global.md",
+    "Local.md",
+    "System.md",
+    "merge.md",
+    "Git diff.md",
+    "Git checkout.md",
+    "Staged.md",
+    "Commit.md",
+    "پاکسازی سریع.md",
+    "نمایش گرافیکی لوگ.md",
+    "`Git add.md",
+    "Picture 📸",
+    "Picture 📸/tempFileForShare_20260129-100510.jpg",
+    "ls ~"
+  ]
+}

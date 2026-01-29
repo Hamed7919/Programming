@@ -1,0 +1,419 @@
+{
+  "main": {
+    "id": "ab57c97745eb5458",
+    "type": "split",
+    "children": [
+      {
+        "id": "d162fa13c99df24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b6a7488f9d69770",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture 📸/Screenshot_۲۰۲۶۰۱۲۴_۱۴۲۳۱۸_Drive.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "Screenshot_۲۰۲۶۰۱۲۴_۱۴۲۳۱۸_Drive"
+            }
+          },
+          {
+            "id": "261d02c063ae75be",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۵۳۷.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۵۳۷"
+            }
+          },
+          {
+            "id": "9e99cbd8876bfb04",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۹۳۷.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۹۳۷"
+            }
+          },
+          {
+            "id": "01f4d7dc1212f81b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۵۲۸۰۴.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tempFileForShare_۲۰۲۶۰۱۲۴-۱۵۲۸۰۴"
+            }
+          },
+          {
+            "id": "7468890fb697beea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "اشتباهات.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "اشتباهات"
+            }
+          },
+          {
+            "id": "ded7465798b11de1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "چک ليست جامع uml.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "چک ليست جامع uml"
+            }
+          },
+          {
+            "id": "daa4732dea331e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Activity.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Activity"
+            }
+          },
+          {
+            "id": "5791ea641b868567",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collaboration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collaboration"
+            }
+          },
+          {
+            "id": "bb73beb6104dab30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Use case diagram.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Use case diagram"
+            }
+          },
+          {
+            "id": "df1ce2c263af0bf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "روش RAD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "روش RAD"
+            }
+          },
+          {
+            "id": "8814071f7f1219b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "شی گرایی در گولنگ/implicit interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "implicit interface"
+            }
+          },
+          {
+            "id": "3677c96666250e3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "شی گرایی در گولنگ/field.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "field"
+            }
+          },
+          {
+            "id": "ef80bdb7a75802d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "رابطه‌  use case  با class.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "رابطه‌  use case  با class"
+            }
+          },
+          {
+            "id": "74a416796a7c0805",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "c1c47e7ffa116cc4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 14
+      },
+      {
+        "id": "9568d48429327153",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dad3ea6bd6f9808",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "مدل آبشاری.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "39f025510c6c5b9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "مدل آبشاری.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "مدل آبشاری"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f1a79d1ce0bb23f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b47683cfd63be9be",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "dc3970d06d8e61b1",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "e4f83123d6c00427",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "c54aa86ccf0ab10b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "51bdc4625789cbd2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "04eed884d9ba772c",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "356d3c1496fe2a31",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "مدل آبشاری.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "21c670f6f84d6423",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "مدل آبشاری.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "c1c47e7ffa116cc4",
+  "lastOpenFiles": [
+    "Entity.md",
+    "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۱۱۵۳۲۰_ChatGPT.jpg",
+    "تطبیق مستقیم Class Diagram با Go.md",
+    "تبدیل actor  به role.md",
+    "Class Diagram.md",
+    "Role.md",
+    "Actor.md",
+    "Entity و actor.md",
+    "روبط بین نمودار ها.md",
+    "رابطه‌  use case  با class.md",
+    "Use case diagram.md",
+    "شی گرایی در گولنگ/field.md",
+    "Activity Diagram.md",
+    "رابطه‌ بین state diagram  با activity diagram.md",
+    "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۷۴۶۴۳_ChatGPT.jpg",
+    "شی گرایی در گولنگ/implicit interface.md",
+    "شی گرایی در گولنگ/composition + interface.md",
+    "شی گرایی در گولنگ/interface.md",
+    "شی گرایی در گولنگ/method.md",
+    "شی گرایی در گولنگ/struct.md",
+    "روش RAD.md",
+    "شی گرایی در گولنگ",
+    "State Diagram.md",
+    "Component.md",
+    "State.md",
+    "Collaboration.md",
+    "Sequence diagrams.md",
+    "Activity.md",
+    "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۷۰۸۰۹_ChatGPT.jpg",
+    "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۶۵۱۲۸_ChatGPT.jpg",
+    "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۶۴۹۳۵_ChatGPT.jpg",
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۵۲۸۰۴.jpg",
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۲۲۱۷۵۸.jpg",
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۹۳۷.jpg",
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۵۳۷.jpg",
+    "Picture 📸/Screenshot_۲۰۲۶۰۱۲۴_۱۴۲۳۱۸_Drive.jpg",
+    "Picture 📸"
+  ]
+}
