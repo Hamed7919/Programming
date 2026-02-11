@@ -202,9 +202,119 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "3b5e97e5a3a181f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequence diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sequence diagrams"
+            }
+          },
+          {
+            "id": "e7413de0818baf71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "روبط بین نمودار ها.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "روبط بین نمودار ها"
+            }
+          },
+          {
+            "id": "ed293d37398cf26a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequence diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sequence diagrams"
+            }
+          },
+          {
+            "id": "841c2f9adda8fdcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collaboration.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Collaboration"
+            }
+          },
+          {
+            "id": "ce995b316dd07251",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequence diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sequence diagrams"
+            }
+          },
+          {
+            "id": "36096be1da6caeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sequence diagrams.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sequence diagrams"
+            }
+          },
+          {
+            "id": "75fbc5db9d0abd1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "روبط بین نمودار ها.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "روبط بین نمودار ها"
+            }
+          },
+          {
+            "id": "6aeb3dcdf3f099cb",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۹۳۷.jpg"
+              },
+              "icon": "lucide-image",
+              "title": "tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۹۳۷"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 22
       },
       {
         "id": "9568d48429327153",
@@ -376,8 +486,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "c1c47e7ffa116cc4",
+  "active": "6aeb3dcdf3f099cb",
   "lastOpenFiles": [
+    "مدل رشد تکراری.md",
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۵۲۸۰۴.jpg",
+    "روش RAD.md",
+    "روبط بین نمودار ها.md",
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۵۳۷.jpg",
+    "مدل حلزونی.md",
+    "مدل آبشاری.md",
+    "چک ليست جامع uml.md",
+    "Sequence Diagram.md",
+    "Sequence diagrams.md",
+    "Collaboration.md",
     "Entity.md",
     "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۱۱۵۳۲۰_ChatGPT.jpg",
     "تطبیق مستقیم Class Diagram با Go.md",
@@ -386,7 +507,6 @@
     "Role.md",
     "Actor.md",
     "Entity و actor.md",
-    "روبط بین نمودار ها.md",
     "رابطه‌  use case  با class.md",
     "Use case diagram.md",
     "شی گرایی در گولنگ/field.md",
@@ -398,21 +518,12 @@
     "شی گرایی در گولنگ/interface.md",
     "شی گرایی در گولنگ/method.md",
     "شی گرایی در گولنگ/struct.md",
-    "روش RAD.md",
     "شی گرایی در گولنگ",
-    "State Diagram.md",
-    "Component.md",
-    "State.md",
-    "Collaboration.md",
-    "Sequence diagrams.md",
-    "Activity.md",
     "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۷۰۸۰۹_ChatGPT.jpg",
     "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۶۵۱۲۸_ChatGPT.jpg",
     "Picture 📸/Screenshot_۲۰۲۶۰۱۲۷_۰۶۴۹۳۵_ChatGPT.jpg",
-    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۵۲۸۰۴.jpg",
     "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۲۲۱۷۵۸.jpg",
     "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۹۳۷.jpg",
-    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۴۲۵۳۷.jpg",
     "Picture 📸/Screenshot_۲۰۲۶۰۱۲۴_۱۴۲۳۱۸_Drive.jpg",
     "Picture 📸"
   ]

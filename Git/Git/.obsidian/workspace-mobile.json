@@ -443,12 +443,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Connection.md",
+                "file": "Git pull.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Connection"
+              "title": "Git pull"
             }
           }
         ],
@@ -601,8 +601,8 @@
   },
   "active": "04a8880e469cc9e9",
   "lastOpenFiles": [
-    "۳. بروزرسانی روزانه (Daily Sync).md",
     "Connection.md",
+    "۳. بروزرسانی روزانه (Daily Sync).md",
     "Force_Push.md",
     "Alias.md",
     "Space.md",

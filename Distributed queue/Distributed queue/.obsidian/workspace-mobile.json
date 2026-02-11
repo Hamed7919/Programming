@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "workflow/State on workflow.md",
+                "file": "Temporal 101 with Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "State on workflow"
+              "title": "Temporal 101 with Go"
             }
           }
         ],
@@ -324,35 +324,36 @@
   },
   "active": "638ec4018ebcb6ba",
   "lastOpenFiles": [
-    "workflow/Example.md",
+    "ترتیب دقیق کورس‌های Temporal.md",
+    "Bpmn 2.0.md",
+    "de-duplication.md",
+    "اتوماسیون workflows.md",
+    "مثال.md",
+    "هدف.md",
+    "معيار های پرفورمنس.md",
+    "مديريت تسک های تکراري.md",
+    "Workflow Engine/مفهوم کلی.md",
+    "تصاویر/tempFileForShare_۲۰۲۶۰۱۲۴-۰۸۱۲۳۲.jpg",
+    "Workflow Engine/State machine.md",
     "workflow/Workflow is.md",
     "workflow/State on workflow.md",
-    "Workflow Engine/State machine.md",
-    "Workflow Engine/مفهوم کلی.md",
+    "workflow/Example.md",
     "Workflow Engine/بکند.md",
     "ایونت درایو.md",
     "workflow",
-    "هدف.md",
     "تصاویر/tempFileForShare_۲۰۲۶۰۱۲۴-۰۸۱۰۴۶.jpg",
-    "اتوماسیون workflows.md",
     "انواع سرویس ها.md",
     "تصاویر/tempFileForShare_۲۰۲۶۰۱۲۴-۰۸۱۶۲۵.jpg",
-    "تصاویر/tempFileForShare_۲۰۲۶۰۱۲۴-۰۸۱۲۳۲.jpg",
     "Fsm.md",
     "Workflow Engine",
     "تصاویر/Notes_260121_170059_370.jpg.md",
-    "Bpmn 2.0.md",
     "Microsoft  crm.md",
     "تصاویر/نوشتن fsm.jpg",
     "Cron job.md",
     "تصاویر/نمودار خطا.jpg",
-    "de-duplication.md",
     "تصاویر/پروسه خرید کالا.jpg",
     "تصاویر/State.jpg",
-    "مديريت تسک های تکراري.md",
     "تصاویر",
-    "Long live object.md",
-    "مثال.md",
-    "معيار های پرفورمنس.md"
+    "Long live object.md"
   ]
 }
