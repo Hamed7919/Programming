@@ -1,24 +1,62 @@
 {
   "main": {
-    "id": "2298d0114b349843",
+    "id": "f54046284e7edc1f",
     "type": "split",
     "children": [
       {
-        "id": "f54bb380dca8163a",
+        "id": "41ae8540bba972be",
         "type": "tabs",
         "children": [
           {
-            "id": "48c9fff23cc08703",
+            "id": "4cc84798570c005d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "810a98dfd75419c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ رفع خطای تداخل تغییرات محلی در Git.md",
+                "file": "Iterative.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🛠️ رفع خطای تداخل تغییرات محلی در Git"
+              "title": "Iterative"
+            }
+          },
+          {
+            "id": "aacdc5f6a5d25e17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🎯 نقش UML دقیقاً کجاست؟.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🎯 نقش UML دقیقاً کجاست؟"
+            }
+          },
+          {
+            "id": "ec75a27a3934cba8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "بهترین روش ساخت نرم‌افزار.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "بهترین روش ساخت نرم‌افزار"
             }
           }
         ]
@@ -27,15 +65,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6dd535ec8a0aa406",
+    "id": "1caa728e82727413",
     "type": "split",
     "children": [
       {
-        "id": "219ee2941433136c",
+        "id": "265ae76b823ab96a",
         "type": "tabs",
         "children": [
           {
-            "id": "5235b540d7c1be9b",
+            "id": "998a3cd851227160",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +86,12 @@
             }
           },
           {
-            "id": "eb6efcd5fa8ca3c7",
+            "id": "89549a7fecfe494b",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "divergent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +103,7 @@
             }
           },
           {
-            "id": "cd15d05c8d955592",
+            "id": "7eeb6feb4536cb80",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +119,20 @@
     "width": 300
   },
   "right": {
-    "id": "d9572494f1684293",
+    "id": "6816605339f6caac",
     "type": "split",
     "children": [
       {
-        "id": "39c274d7cce17ec1",
+        "id": "b69645213f0340b5",
         "type": "tabs",
         "children": [
           {
-            "id": "df519e706bcdcb79",
+            "id": "f69841fba0b09b4a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Iterative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +142,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Iterative"
             }
           },
           {
-            "id": "f7d6873498940f2a",
+            "id": "08fe3337abad1584",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Iterative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Iterative"
             }
           },
           {
-            "id": "bc1540fa4f33f706",
+            "id": "13417217436ce11c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +175,7 @@
             }
           },
           {
-            "id": "3f5c9138e8a519a8",
+            "id": "d6a0ab58bf0fc704",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -149,17 +189,18 @@
             }
           },
           {
-            "id": "612265bb4caed6b3",
+            "id": "8928f1e8fde648c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Iterative.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Iterative"
             }
           }
         ]
@@ -180,25 +221,28 @@
       "bases:Create new base": false
     }
   },
-  "active": "48c9fff23cc08703",
+  "active": "4cc84798570c005d",
   "lastOpenFiles": [
-    "خطا.md",
-    "Git/Git merge.md",
-    "Git/git push -u.md",
-    "Git/GitHub.md",
-    "Git/Git resert  --hard.md",
-    "Git/git status.md",
-    "Git/Global.md",
-    "Git/HTTPS.md",
-    "Git/Git push.md",
-    "Git/Git pull.md",
-    "Git/Git log --graph.md",
-    "Git/Git log.md",
-    "Git/Git init.md",
-    "Git/Git fetch.md",
-    "Git/Git diff.md",
-    "🛠️ رفع خطای تداخل تغییرات محلی در Git.md",
-    "git stash pop.md",
-    "git stash.md"
+    "بهترین روش ساخت نرم‌افزار.md",
+    "Iterative.md",
+    "🎯 نقش UML دقیقاً کجاست؟.md",
+    "لایه 1 — Process (چطور جلو برویم).md",
+    "Architecture (سیستم چه شکلی باشد).md",
+    "Technology (با چه چیزی بسازیم).md",
+    "Architecture vs Process.md",
+    "Process.md",
+    "Architecture.md",
+    "🧱 روند اصولی ساخت یک برنامه Go.md",
+    "🧱 مرحله 10 — اجرای واقعی برنامه.md",
+    "🧱 مرحله 9 — Wiring (اتصال همه لایه‌ها).md",
+    "🧱 مرحله 8 — Repository.md",
+    "🧱 مرحله 7 — ساخت Handler.md",
+    "🧱 مرحله 6 — ساخت لایه Service.md",
+    "🧱 مرحله 5 — تعریف Domain (مهم‌ترین بخش مهندسی).md",
+    "🧱 مرحله 4 — انتقال main به cmd.md",
+    "bootstrapping.md",
+    "🧱 مرحله 3 — فهم ساختار واقعی پروژه Go.md",
+    "🧱 مرحله 2 — ساخت entry point برنامه.md",
+    "🧱 مرحله 1 — تعریف ماژول پروژه.md"
   ]
 }

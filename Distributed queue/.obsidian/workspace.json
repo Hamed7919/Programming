@@ -11,10 +11,28 @@
             "id": "d07d8cbd978fd4ab",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Distributed queue/سناریوی رستوران تمپورال (The Temporal Restaurant).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "سناریوی رستوران تمپورال (The Temporal Restaurant)"
+            }
+          },
+          {
+            "id": "de20f93ffc4081ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Exercise 1 ـwith code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exercise 1 ـwith code"
             }
           }
         ]
@@ -176,13 +194,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "d07d8cbd978fd4ab",
+  "active": "fbf9d5ac6f88dfdc",
   "lastOpenFiles": [
+    "Distributed queue/Temporal 101 with Go.md",
+    "Distributed queue/سناریوی رستوران تمپورال (The Temporal Restaurant).md",
+    "Distributed queue/Viewing Workflow History with the CLI.md",
+    "Distributed queue/Exercise 1 ـwith code.md",
+    "Distributed queue/Exercise 1 – Hello Workflow.md",
     "Distributed queue/ترتیب دقیق کورس‌های Temporal.md",
-    "Distributed queue/Worker Versioning.md",
-    "Distributed queue/Interacting with Workflows with Go.md",
-    "Distributed queue/Versioning Workflows with Go.md",
-    "Distributed queue/Crafting an Error Handling Strategy with Go.md",
-    "Distributed queue/Temporal 101 with Go.md"
+    "Distributed queue/Workers.md",
+    "Distributed queue/چگونه داده‌ها را به ورک‌فلوها وارد و از آن‌ها خارج کنیم.md",
+    "Distributed queue/Workflow Execution.md",
+    "Distributed queue/Temporal CLI.md",
+    "Distributed queue/کاربران چطور با سیستم‌های مبتنی بر Temporal.md",
+    "Distributed queue/SDK.md",
+    "Distributed queue/معماری سیستم Temporal.md",
+    "Distributed queue/Temporal چه مشکلی را حل می کند ؟.md",
+    "Distributed queue/What is a Workflow?.md",
+    "Distributed queue/ران کردن  Temporal CLI.md",
+    "Distributed queue/نحوه استفاده و ساختار دستورات.md",
+    "Distributed queue/Temporal CLI چیست؟.md",
+    "Distributed queue/API Gateway.md",
+    "Distributed queue/gRPC.md",
+    "Distributed queue/Backend.md",
+    "Distributed queue/REST API.md",
+    "Distributed queue/TLS.md",
+    "Distributed queue/Prometheus.md",
+    "Distributed queue/Grafana.md",
+    "Distributed queue/TCP.md"
   ]
 }

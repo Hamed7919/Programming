@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "2298d0114b349843",
+    "id": "ccfd74a508ca3dde",
     "type": "split",
     "children": [
       {
-        "id": "f54bb380dca8163a",
+        "id": "9d035e68db79ea92",
         "type": "tabs",
         "children": [
           {
-            "id": "48c9fff23cc08703",
+            "id": "067260024c93091c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🛠️ رفع خطای تداخل تغییرات محلی در Git.md",
+                "file": "روش RAD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🛠️ رفع خطای تداخل تغییرات محلی در Git"
+              "title": "روش RAD"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6dd535ec8a0aa406",
+    "id": "b858351045094645",
     "type": "split",
     "children": [
       {
-        "id": "219ee2941433136c",
+        "id": "286c4609e8161387",
         "type": "tabs",
         "children": [
           {
-            "id": "5235b540d7c1be9b",
+            "id": "ac09c9b31b2b72a4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "eb6efcd5fa8ca3c7",
+            "id": "2c63562b804dfe0d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "divergent",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "cd15d05c8d955592",
+            "id": "399bb9c6ae7b807e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "d9572494f1684293",
+    "id": "375a2da893b07e93",
     "type": "split",
     "children": [
       {
-        "id": "39c274d7cce17ec1",
+        "id": "d93616b38dc19e3c",
         "type": "tabs",
         "children": [
           {
-            "id": "df519e706bcdcb79",
+            "id": "c817fc4ba37359cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "روش RAD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for روش RAD"
             }
           },
           {
-            "id": "f7d6873498940f2a",
+            "id": "179f00c288dff6ec",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "روش RAD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from روش RAD"
             }
           },
           {
-            "id": "bc1540fa4f33f706",
+            "id": "3c178a7d327b4dcc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,31 +137,18 @@
             }
           },
           {
-            "id": "3f5c9138e8a519a8",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
-          {
-            "id": "612265bb4caed6b3",
+            "id": "1e29e7c26ead1883",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "روش RAD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of روش RAD"
             }
           }
         ]
@@ -180,25 +169,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "48c9fff23cc08703",
+  "active": "067260024c93091c",
   "lastOpenFiles": [
-    "خطا.md",
-    "Git/Git merge.md",
-    "Git/git push -u.md",
-    "Git/GitHub.md",
-    "Git/Git resert  --hard.md",
-    "Git/git status.md",
-    "Git/Global.md",
-    "Git/HTTPS.md",
-    "Git/Git push.md",
-    "Git/Git pull.md",
-    "Git/Git log --graph.md",
-    "Git/Git log.md",
-    "Git/Git init.md",
-    "Git/Git fetch.md",
-    "Git/Git diff.md",
-    "🛠️ رفع خطای تداخل تغییرات محلی در Git.md",
-    "git stash pop.md",
-    "git stash.md"
+    "Picture 📸/tempFileForShare_۲۰۲۶۰۱۲۴-۱۵۲۸۰۴.jpg",
+    "روش RAD.md"
   ]
 }

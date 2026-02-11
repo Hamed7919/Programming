@@ -1,0 +1,1 @@
+Conceptually, a workflow defines a sequence of steps. With Temporal, those steps are defined by writing code, known as a _[[Workflow Definition]]_, and are carried out by running that code, which results in a _[[Workflow Execution]]_.
