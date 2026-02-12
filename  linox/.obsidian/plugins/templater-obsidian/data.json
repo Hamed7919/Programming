@@ -1,0 +1,59 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "02 - Core Concepts",
+      "template": "99 - Templates/Concept Template.md"
+    },
+    {
+      "folder": "03 - Workflows",
+      "template": "99 - Templates/Workflow Template.md"
+    },
+    {
+      "folder": "04 - Systems",
+      "template": "99 - Templates/System Template.md"
+    },
+    {
+      "folder": "05 - Failures & Debug",
+      "template": "99 - Templates/Debug Template.md"
+    },
+    {
+      "folder": "06 - Learning State",
+      "template": "99 - Templates/Learning Dashboard.md"
+    },
+    {
+      "folder": "00 - Inbox",
+      "template": "99 - Templates/Inbox Template.md"
+    }
+  ],
+  "enable_file_templates": false,
+  "file_templates": [
+    {
+      "regex": ".*",
+      "template": ""
+    }
+  ],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "",
+    ""
+  ],
+  "intellisense_render": 1
+}
