@@ -1,10 +1,10 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD") %>
-updated: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2026-02-13
+updated: 2026-02-13 14:21
 tags: []
 ---
 
-#  {{title}}
+# خطا: {{title}}
 
 ## مشکل
 ...
