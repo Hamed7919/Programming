@@ -1,0 +1,11 @@
+{
+  "fileDirections": {
+    "02 - Core Concepts/20260213_728.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "preventRTLFrontmatter": false,
+  "statusBar": true
+}

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed queue/Temporal 101 with Go.md",
+                "file": "Temporal Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temporal 101 with Go"
+              "title": "Temporal Dashboard"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exercise 1 ـwith code.md",
+                "file": "Distributed queue/Temporal 101 with Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Exercise 1 ـwith code"
+              "title": "Temporal 101 with Go"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,33 +196,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "d07d8cbd978fd4ab",
+  "active": "de20f93ffc4081ed",
   "lastOpenFiles": [
-    "Distributed queue/معماری سیستم Temporal.md",
+    "Distributed queue/ترتیب دقیق کورس‌های Temporal.md",
     "Distributed queue/Temporal 101 with Go.md",
     "Distributed queue/Viewing Workflow History with the CLI.md",
-    "Distributed queue/ترتیب دقیق کورس‌های Temporal.md",
-    "Distributed queue/سناریوی رستوران تمپورال (The Temporal Restaurant).md",
-    "Distributed queue/Exercise 1 ـwith code.md",
+    "✅ Temporal Dev Setup.md",
+    "Temporal Dashboard.md",
+    "🗂 🔟 چرا Dashboard در Production حیاتی است؟.md",
+    "🗂 9️⃣ Dashboard به عنوان ابزار Observability.md",
+    "🗂 8️⃣ وضعیت‌های اجرای Workflow.md",
+    "🗂 7️⃣ Input و Result در Dashboard.md",
+    "🗂 6️⃣ چرا Event History مهم است؟.md",
+    "🗂 5️⃣ Event History قلب Temporal است.md",
+    "🗂 4️⃣ Workers در Dashboard چه معنایی دارند؟.md",
+    "🗂 3️⃣ Task Queue در Temporal.md",
+    "🗂 2️⃣ تفاوت Workflow Type و Workflow Instance.md",
+    "🗂 1️⃣ Temporal Dashboard چیست؟.md",
+    "رفع مشکل __ hello workflow.md",
     "Distributed queue/Exercise 1 – Hello Workflow.md",
-    "Distributed queue/Workers.md",
-    "Distributed queue/چگونه داده‌ها را به ورک‌فلوها وارد و از آن‌ها خارج کنیم.md",
-    "Distributed queue/Workflow Execution.md",
     "Distributed queue/Temporal CLI.md",
-    "Distributed queue/کاربران چطور با سیستم‌های مبتنی بر Temporal.md",
-    "Distributed queue/SDK.md",
-    "Distributed queue/Temporal چه مشکلی را حل می کند ؟.md",
-    "Distributed queue/What is a Workflow?.md",
+    "Distributed queue/Workflow Execution.md",
+    "Distributed queue/Temporal CLI چیست؟.md",
     "Distributed queue/ران کردن  Temporal CLI.md",
     "Distributed queue/نحوه استفاده و ساختار دستورات.md",
-    "Distributed queue/Temporal CLI چیست؟.md",
-    "Distributed queue/API Gateway.md",
-    "Distributed queue/gRPC.md",
-    "Distributed queue/Backend.md",
-    "Distributed queue/REST API.md",
-    "Distributed queue/TLS.md",
-    "Distributed queue/Prometheus.md",
-    "Distributed queue/Grafana.md",
-    "Distributed queue/TCP.md"
+    "Distributed queue/معماری سیستم Temporal.md",
+    "Distributed queue/سناریوی رستوران تمپورال (The Temporal Restaurant).md",
+    "Distributed queue/Exercise 1 ـwith code.md",
+    "Distributed queue/Workers.md"
   ]
 }

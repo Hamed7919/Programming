@@ -1,0 +1,13 @@
+/* همه چیز پیش‌فرض راست‌چین */
+.markdown-source-view.mod-cm6 .cm-line,
+.markdown-rendered p {
+    direction: rtl !important;
+    text-align: right !important;
+}
+
+/* هر خطی که با انگلیسی شروع شود دستی LTR شود */
+.ltr {
+    direction: ltr !important;
+    text-align: left !important;
+}
+

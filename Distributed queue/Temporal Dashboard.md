@@ -1,0 +1,11 @@
+[[🗂 1️⃣ Temporal Dashboard چیست؟]]
+[[🗂 2️⃣ تفاوت Workflow Type و Workflow Instance]]
+
+[[🗂 3️⃣ Task Queue در Temporal]]
+[[🗂 4️⃣ Workers در Dashboard چه معنایی دارند؟]]
+[[🗂 5️⃣ Event History قلب Temporal است]]
+[[🗂 6️⃣ چرا Event History مهم است؟]]
+[[🗂 7️⃣ Input و Result در Dashboard]]
+[[🗂 8️⃣ وضعیت‌های اجرای Workflow]]
+[[🗂 9️⃣ Dashboard به عنوان ابزار Observability]]
+[[🗂 🔟 چرا Dashboard در Production حیاتی است؟]]

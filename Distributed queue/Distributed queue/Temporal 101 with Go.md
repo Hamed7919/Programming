@@ -18,14 +18,21 @@ https://temporal.talentlms.com/plus/catalog/courses/126
 
 [[Viewing Workflow History with the CLI]]
 
+
+[[Temporal Dashboard]]
+
 ---
 تمرین ها : 
 [[Exercise 1 – Hello Workflow]]
+
+[[رفع مشکل __ hello workflow]]
 [[Exercise 1 ـwith code ]]
 [[سناریوی رستوران تمپورال (The Temporal Restaurant)]]
 
 ---
+رویه ها : 
 
+[[✅ Temporal Dev Setup]]
 
 
 
