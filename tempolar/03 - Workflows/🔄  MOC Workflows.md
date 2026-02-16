@@ -20,3 +20,28 @@ tags: []
 [[20260213_1615|Temporal-When-To-Limit-Retries]]
 [[20260213_1620|Temporal-Activity-Retry-Implementation]]
 [[20260213_1623|Temporal-Retry-Policy-Code-Example]]
+
+
+
+#### exrsie :
+[[20260216_1244|Hands-On Exercise #3: Farewell Workflow]]
+[[20260216_1240|Farewell Workflow_Result]]
+
+---
+
+[[20260216_1400|Temporal-Full-Workflow-Structure]]
+
+
+[[20260216_1423|Temporal-Client-Application-Behavior]]
+
+
+[[20260216_1442|Temporal-Go-Development-Essentials]]
+
+
+---
+[[20260216_1642|Temporal-Application-Code-Structure]]
+
+[[20260216_1649|Temporal-Activity-Idempotency]]
+
+[[20260216_1655|Go-SDK-Error-Implementation]]
+

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distributed queue/Temporal 101 with Go.md",
+                "file": "Distributed queue/Crafting an Error Handling Strategy with Go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Temporal 101 with Go"
+              "title": "Crafting an Error Handling Strategy with Go"
             }
           }
         ],
