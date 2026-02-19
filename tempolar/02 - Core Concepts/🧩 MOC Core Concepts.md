@@ -16,7 +16,11 @@
 
 [[20260216_1317|Temporal-System-Actors]]
 
-[[20260216_1627|Durable-Execution-System]]
+
+---
+
+[[20260216_1627|Capitalization]]
+[[Temporal-Context-Dualism]]
 
 
 

@@ -3,32 +3,47 @@ created: 2026-02-18
 updated: 2026-02-18 23:31
 tags: []
 ---
+# {{VFS}}
 
-# {{VFS}}لینوکس یک لایه دارد به نام:
+VFS = Virtual File System
+یک لایه داخل کرنل لینوکس که:
+بین برنامه‌ها و فایل‌سیستم‌های واقعی قرار می‌گیرد
+یک API استاندارد برای کار با فایل فراهم می‌کند
+یعنی برنامه فقط این‌ها را می‌شناسد:
 
-**Virtual File System (VFS)**
 
-VFS اجازه می‌دهد:
+open()
+read()
+write()
+close()
+ولی اصلاً مهم نیست:
+ext4 باشد
+xfs باشد
+ntfs باشد
+network fs باشد
+usb باشد
+ram باشد
 
-- ext4
-    
-- xfs
-    
-- nfs
-    
-- proc
-    
-- tmpfs
-    
+___
+) جریان واقعی از دید سیستم
+وقتی این را اجرا می‌کنی:
 
-همه در یک درخت واحد دیده شوند.
+cat file.txt
+اتفاق واقعی:
+Copy code
 
-Mount باعث می‌شود VFS بداند:
-
-کدام دایرکتوری به کدام فایل‌سیستم وصل است.
-
+User Program (cat)
+      ↓
+System Call (read)
+      ↓
+VFS
+      ↓
+Filesystem Driver (ext4 / xfs / ntfs)
+      ↓
+Disk
+VFS مثل «مدیر ترافیک» عمل می‌کند.
 ## لینک‌ها
-
+[[Relationship between vfs and mount]]
 
 
 
@@ -40,4 +55,3 @@ Mount باعث می‌شود VFS بداند:
 - [ ] #to-expand    ← نیاز به تکمیل و توضیح بیشتر
 - [ ] #to-test      ← باید در عمل تست شود
 - [ ] #to-review    ← نیاز به بازبینی و اصلاح
-- [ ] #ready        ← آماده استفاده و استناد

@@ -11,10 +11,14 @@
             "id": "4cc84798570c005d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "لایه 1 — Process (چطور جلو برویم).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "لایه 1 — Process (چطور جلو برویم)"
             }
           },
           {
@@ -223,26 +227,26 @@
   },
   "active": "4cc84798570c005d",
   "lastOpenFiles": [
-    "بهترین روش ساخت نرم‌افزار.md",
-    "Iterative.md",
-    "🎯 نقش UML دقیقاً کجاست؟.md",
-    "لایه 1 — Process (چطور جلو برویم).md",
-    "Architecture (سیستم چه شکلی باشد).md",
     "Technology (با چه چیزی بسازیم).md",
+    "Iterative.md",
+    "Architecture (سیستم چه شکلی باشد).md",
+    "🧱 مرحله 8 — Repository.md",
+    "🧱 مرحله 4 — انتقال main به cmd.md",
+    "🧱 مرحله 2 — ساخت entry point برنامه.md",
+    "🧱 روند اصولی ساخت یک برنامه Go.md",
+    "🎯 نقش UML دقیقاً کجاست؟.md",
+    "بهترین روش ساخت نرم‌افزار.md",
+    "لایه 1 — Process (چطور جلو برویم).md",
     "Architecture vs Process.md",
     "Process.md",
     "Architecture.md",
-    "🧱 روند اصولی ساخت یک برنامه Go.md",
     "🧱 مرحله 10 — اجرای واقعی برنامه.md",
     "🧱 مرحله 9 — Wiring (اتصال همه لایه‌ها).md",
-    "🧱 مرحله 8 — Repository.md",
     "🧱 مرحله 7 — ساخت Handler.md",
     "🧱 مرحله 6 — ساخت لایه Service.md",
     "🧱 مرحله 5 — تعریف Domain (مهم‌ترین بخش مهندسی).md",
-    "🧱 مرحله 4 — انتقال main به cmd.md",
     "bootstrapping.md",
     "🧱 مرحله 3 — فهم ساختار واقعی پروژه Go.md",
-    "🧱 مرحله 2 — ساخت entry point برنامه.md",
     "🧱 مرحله 1 — تعریف ماژول پروژه.md"
   ]
 }

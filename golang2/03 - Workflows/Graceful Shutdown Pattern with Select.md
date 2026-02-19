@@ -1,0 +1,48 @@
+---
+created: 2026-02-19
+updated: 2026-02-19 15:17
+tags: []
+---
+
+
+
+Markdown
+
+````
+# الگوی خروج ایمن (Graceful Shutdown)
+
+برای جلوگیری از **Memory Leak** و زنده ماندن بیهوده Goroutineها، باید همیشه از الگوی `select` و کانتکست استفاده کرد.
+
+## الگو (Pattern)
+```go
+select {
+case <-ctx.Done():
+    // سیگنال توقف رسید، تمیزکاری کن و خارج شو
+    return
+case result := <-work:
+    // کار اصلی با موفقیت انجام شد
+    fmt.Println(result)
+}
+````
+
+## در حلقه‌های تکرار
+
+در ورکرها (Workers) باید در هر تکرار کانتکست چک شود:
+
+- اگر `Done` شده بود: `return`
+    
+- در غیر این صورت: `default` (ادامه کار)
+    
+
+#Golang #Concurrency #BestPractice
+
+
+
+----
+## 🔄 Processing Status
+- [ ] #to-process   ← خام (هنوز فکر اولیه است)
+- [ ] #to-link      ← هنوز به نوت‌های دیگر لینک نشده
+- [ ] #to-expand    ← نیاز به تکمیل و توضیح بیشتر
+- [ ] #to-test      ← باید در عمل تست شود
+- [ ] #to-review    ← نیاز به بازبینی و اصلاح
+- [ ] #ready        ← آماده استفاده و استناد

@@ -45,3 +45,10 @@ tags: []
 
 [[20260216_1655|Go-SDK-Error-Implementation]]
 
+
+[[Temporal-Backward-Compatibility-Pattern]]
+
+
+[[Go-SDK-Struct-Pattern-Implementation]]
+
+[[Temporal-IO-Best-Practices]]

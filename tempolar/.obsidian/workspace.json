@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Core Concepts/🧩 MOC Core Concepts.md",
+                "file": "05 - Failures & Debug/🐞  MOC Failures & Debug.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🧩 MOC Core Concepts"
+              "title": "🐞  MOC Failures & Debug"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Failures & Debug/🐞  MOC Failures & Debug.md",
+                "file": "02 - Core Concepts/🧩 MOC Core Concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🐞  MOC Failures & Debug"
+              "title": "🧩 MOC Core Concepts"
             }
           },
           {
@@ -77,8 +77,7 @@
               "title": "20260216_1506"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "99437fbc7adf0bab",
@@ -90,12 +89,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05 - Failures & Debug/20260213_1606.md",
+                "file": "05 - Failures & Debug/Debug-Stuck-Workflows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260213_1606"
+              "title": "Debug-Stuck-Workflows"
             }
           },
           {
@@ -104,12 +103,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Workflows/20260216_1655.md",
+                "file": "04 - Systems/Temporal-Worker-High-Availability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260216_1655"
+              "title": "Temporal-Worker-High-Availability"
             }
           },
           {
@@ -126,8 +125,7 @@
               "title": "20260216_1651"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -290,33 +288,33 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c643b2114804e9ed",
+  "active": "868e7ae0c742b099",
   "lastOpenFiles": [
-    "03 - Workflows/20260216_1655.md",
+    "00 - Inbox/Choosing Names for Task Queues.md",
     "05 - Failures & Debug/🐞  MOC Failures & Debug.md",
-    "03 - Workflows/🔄  MOC Workflows.md",
-    "04 - Systems/20260216_1653.md",
+    "05 - Failures & Debug/Debug-Stuck-Workflows.md",
+    "04 - Systems/Temporal-Task-Queue-Naming-Logic.md",
     "04 - Systems/⚙️ MOC  Systems.md",
-    "05 - Failures & Debug/20260216_1446.md",
-    "00 - Inbox/20260216_1651.md",
-    "03 - Workflows/20260216_1649.md",
-    "03 - Workflows/20260216_1642.md",
-    "05 - Failures & Debug/20260216_1542.md",
-    "04 - Systems/20260216_1634.md",
-    "00 - Inbox/20260213_1239.md",
-    "03 - Workflows/20260216_1442.md",
-    "03 - Workflows/20260216_1423.md",
-    "03 - Workflows/20260216_1400.md",
-    "02 - Core Concepts/20260216_1631.md",
-    "04 - Systems/20260216_1444.md",
-    "04 - Systems/20260216_1410.md",
-    "04 - Systems/20260216_1430.md",
+    "04 - Systems/Temporal-Worker-High-Availability.md",
+    "03 - Workflows/Task-Queue-Naming-Best-Practices.md",
+    "03 - Workflows/Temporal-Context-Passing-Example.md",
+    "05 - Failures & Debug/20260213_1606.md",
+    "03 - Workflows/Workflow-Context-Constraints.md",
+    "05 - Failures & Debug/Temporal-Cancellation-Propagation.md",
+    "04 - Systems/Go-Context-vs-Workflow-Context.md",
+    "02 - Core Concepts/Temporal-Context-Dualism.md",
     "02 - Core Concepts/🧩 MOC Core Concepts.md",
+    "03 - Workflows/🔄  MOC Workflows.md",
+    "03 - Workflows/Go-SDK-Struct-Pattern-Implementation.md",
+    "03 - Workflows/Temporal-IO-Best-Practices.md",
+    "03 - Workflows/Temporal-Backward-Compatibility-Pattern.md",
+    "03 - Workflows/20260216_1655.md",
+    "02 - Core Concepts/20260216_1317.md",
     "02 - Core Concepts/20260216_1627.md",
-    "01 - MOC/20260216_1509.md",
     "01 - MOC/20260216_1506.md",
-    "01 - MOC/MOC.md",
-    "99 - Templates/Workflow Template.md",
-    "99 - Templates/Concept Template.md"
+    "03 - Workflows/20260216_1642.md",
+    "04 - Systems/20260216_1653.md",
+    "04 - Systems/20260216_1634.md",
+    "05 - Failures & Debug/20260216_1542.md"
   ]
 }
