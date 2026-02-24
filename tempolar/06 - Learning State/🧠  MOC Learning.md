@@ -1,19 +1,8 @@
----
-created: 2026-02-11
-updated: 2026-02-11 13:26
-tags: []
----
+[[Personal Insight – Timeouts as System Signals]]
 
-# 🧠 Learning Dashboard
+[[Insight – Timers Redefine Waiting]]
 
-## موضوع فعال
+[[Learning Hub – Temporal 4 Codebase Architecture]]
 
 
-## چیزهایی که نفهمیدم
-- [ ] ...
 
-## قدم بعدی
-1. ...
-
-## لاگ کوتاه
-- {{date}} → ...
